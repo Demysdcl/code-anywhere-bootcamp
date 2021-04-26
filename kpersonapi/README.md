@@ -36,7 +36,8 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
-* [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
+* [Kotlin como linguagem de programação](https://kotlinlang.org/)
+* [SDKMan! para gerenciamento e instalação do Java](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
 * [Palheta de atalhos de comandos do Intellij](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [Site oficial do Spring](https://spring.io/)
@@ -44,7 +45,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Site oficial do Heroku](https://www.heroku.com/)
 * [Site oficial do GIT](https://git-scm.com/)
 * [Site oficial do GitHub](http://github.com/)
-* [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
